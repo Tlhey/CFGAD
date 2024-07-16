@@ -1,0 +1,13 @@
+{
+    "value": 0.9748,
+    "params": {
+        "lr": 1.0003510365286429e-05,
+        "dropout": 1.436543049164585e-05,
+        "weight_decay": 1.600819698723968e-06,
+        "num_layers": 2,
+        "hid_dim": 256,
+        "noise_dim": 8
+    },
+    "roc_auc": 0.9748,
+    "average_precision": 0.8112546360800046
+}
